@@ -1,0 +1,22 @@
+1. Could not use npm init svelte@next -> npm create svelte@latest
+
+2. Firebase is on V10 not V9
+
+3. Some strange dependencies 'svelte-preprocess', 'dayjs', missing some 
+instructions for installation.
+
+4. 'svelte-routing' instead of native 'goto'
+
+5. Auth rendering is incorrect. Needed to fix.
+
+6. Missing security rules for Firebase Storage -> reprompt.
+
+7. Sent to the wrong page after login.
+
+8. Hallucinated an exported member "subscribe" for svelte store.
+
+9. user needs to be a store in a separate js file
+
+10. Missing /bookings in navbar
+
+11. Equipment is not selectable
